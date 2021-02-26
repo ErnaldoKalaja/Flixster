@@ -22,9 +22,8 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 
 ### App Walkthough GIF
 
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
-
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="flixster_p2.gif" width=250><br>
+<img src="flixster_p2_landscape.gif" width=250><br>
 
 ### Notes
 Had to make a late submission because of a busy week in other classes as such I have also not been able to look at the stretch stories. I will try my best for the next assingment.
